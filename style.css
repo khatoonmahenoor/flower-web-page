@@ -1,0 +1,110 @@
+body {
+   width: 100%;
+   padding: 0;
+   margin: 0;
+   
+}
+.content {
+   margin: auto;
+
+
+}
+
+.caro {
+   max-height: 380px;
+}
+
+.navbar h3,
+h6 {
+   line-height: .8;
+}
+
+.navbar {
+   background-color: white;
+}
+
+margin-top {
+   background-color: blueviolet;
+}
+
+.fdiv {
+   background-color: blueviolet;
+   padding-top: 10px;
+}
+
+p {
+   font-size: 25px;
+}
+
+body {
+   background-color: darkgrey;
+}
+
+#div2 {
+   background-color: lightgray;
+
+}
+
+#p1 {
+   font-size: 25px;
+   font-family: 'Times New Roman', Times, serif;
+   font-style: italic;
+   background-color: lightgray;
+   text-align: center;
+}
+
+.px-4 {
+   background-color: darkgray;
+}
+
+.sec {
+   width: auto;
+   height: auto;
+}
+
+.sec2 {
+   margin-top: 100px;
+}
+
+#CONTACT {
+   background-color: white;
+   padding: 10px;
+   font-size: 5px;
+}
+
+.headerText p {
+   background-color: lightgray;
+   width: 100%;
+   font-style: italic;
+   font-size: 18px;
+   text-align: center;
+   vertical-align: center;
+   margin: auto auto;
+   padding: 25px 0;
+
+}
+.card h3 {
+   color: blueviolet;
+}
+
+.card p {
+   text-align: left;
+   text-transform: capitalize;
+   font-size: small;
+   color: rgb(136, 135, 135);
+}
+
+btn {
+   color: blueviolet;
+}
+
+footer {
+   background-color: rgb(114, 107, 107);
+   color: white;
+   padding: 5px
+}
+
+ul {
+   text-align: right;
+   align-items: center;
+}
